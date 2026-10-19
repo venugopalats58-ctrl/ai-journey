@@ -1,0 +1,3 @@
+# Learning log
+AI is the broad field of making computers do tasks that normally need human intelligence. Machine learning is a part of AI where a computer learns patterns from examples instead of following rules a person wrote. Deep learning is a part of machine learning that uses neural networks with many layers, and LLMs are large deep learning models trained on huge amounts of text so they can understand and write language.
+"Linear regression finds the straight line that best fits example data, so it can predict a number."
